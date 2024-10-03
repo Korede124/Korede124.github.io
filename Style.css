@@ -7,8 +7,8 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-image: linear-gradient(to right top, #d19f6b, #cfab66, #c8b964, #bbc768, #a9d573, #acd269, #b0cf5f, #b4cc55, #d0b53b, #e79a37, #f67d46, #fb5f5f);
-    color: #fff;
+    background-color: grey;
+     color: #fff;
     line-height: 1.6;
 }
 
